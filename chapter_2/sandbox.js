@@ -55,3 +55,5 @@ let n = 5;
 console.log("5" == n); // returns true loose comparison
 
 console.log("5" === n); // returns false tight comparison
+
+//type conversion
