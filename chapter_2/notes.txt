@@ -1,0 +1,7 @@
+1. Always let put script just before the body closes
+2. keep js in seperate file
+3. let variable can chnage
+4. const have fixed value
+5. var is old version
+6. camelcase for naming variable and only letters.
+7. Datatypes :- Number(int, float, double), String, Boolean, Null, undefined, Object (array, dates, literals), Symbol
